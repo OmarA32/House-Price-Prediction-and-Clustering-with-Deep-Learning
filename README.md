@@ -12,4 +12,7 @@
 - 📊 **Loss Visualization**: Track and plot training loss over time.
 - 🏷️ **Sample Inspection**: Compare actual vs predicted prices and see which cluster a house belongs to.
 
+
+Used Dataset: Ames Housing Dataset (Kaggle)
+
 This project is not complete yet!
