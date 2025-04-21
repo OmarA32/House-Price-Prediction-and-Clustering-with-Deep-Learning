@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction & Clustering 
+# 🏠 House Price Prediction & Clustering (with a GUI)
 
-[WIP] This project explores **house price prediction** by combining **deep learning (autoencoders)**, **regression**, and **unsupervised clustering**. 
+[WIP] This project explores **house price prediction** by combining **deep learning (autoencoders)**, **regression**, and **unsupervised clustering**. All with a dedicated GUI. 
 
 **Predict residential property values using deep learning with an interactive visualization dashboard**
 
@@ -11,7 +11,7 @@
 - **ML-Powered Prediction**  
   Neural network model trained on housing features (square footage, quality ratings, etc.)
 
-- **Interactive Dashboard**  
+- **Interactive Dashboard (GUI)**  
   Visualize key metrics:  
   📈 Training loss curve  
   🌳 Feature clustering dendrogram  
