@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction & Clustering (with a GUI)
+# 🏠 House Price Prediction & Clustering (GUI)
 
 [WIP] This project explores **house price prediction** by combining **deep learning (autoencoders)**, **regression**, and **unsupervised clustering**. All with a dedicated GUI. 
 
