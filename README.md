@@ -1,18 +1,24 @@
-# House Price Prediction with Clustering and Autoencoders
+# 🏠 House Price Prediction & Clustering 
 
 [WIP] This project explores **house price prediction** by combining **deep learning (autoencoders)**, **regression**, and **unsupervised clustering**. 
 
+**Predict residential property values using deep learning with an interactive visualization dashboard**
+
 ---
-  
-## 🔍 Features
 
-- 💡 **Autoencoder**: Compresses high-dimensional input data into meaningful latent representations.
-- 📈 **Regressor**: Predicts house prices using a neural network with PyTorch.
-- 🧠 **Clustering**: Uses KMeans on the encoded data to group similar houses.
-- 📊 **Loss Visualization**: Track and plot training loss over time.
-- 🏷️ **Sample Inspection**: Compare actual vs predicted prices and see which cluster a house belongs to.
+## 📌 Features
 
+- **ML-Powered Prediction**  
+  Neural network model trained on housing features (square footage, quality ratings, etc.)
 
-Used Dataset: Ames Housing Dataset (Kaggle)
+- **Interactive Dashboard**  
+  Visualize key metrics:  
+  📈 Training loss curve  
+  🌳 Feature clustering dendrogram  
+  🔄 Actual vs Predicted prices  
+  📉 Prediction residuals  
 
-This project is not complete yet!
+- **User-Friendly Interface**  
+  ▶️ Input panel with 16 property features  
+  🎯 Real-time price prediction button  (WIP)
+
