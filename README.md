@@ -20,7 +20,10 @@
 
 - **Unsupervised Clustering with GMM**  
   Houses are grouped using **Gaussian Mixture Models** to identify clusters of similar properties.
-
+  
+- **Deep Learning Regressor**  
+  A fully-connected neural network is trained to predict house prices using numerical and categorical features.
+  
 - **User-Friendly Interface**  
   - ▶️ Input panel with many property features  
   - 🎯 Real-time price prediction button  
